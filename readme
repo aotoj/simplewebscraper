@@ -1,0 +1,3 @@
+A simple webscrapper that takes the summary paragraphs from the first chapters of the first and second harry potter book from the sparknotes website. https://www.sparknotes.com/lit/harrypotter/section1/ and https://www.sparknotes.com/lit/potter2/section1/
+
+The program takes the paragraphs from each website, and counts the number of times each word is used, then assigns each word a numerical value representing the number of times the word is used in the summary. The program then uses these values to graph a simple bar graph of the words used more than once in the summary.
